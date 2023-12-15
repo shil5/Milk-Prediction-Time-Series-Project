@@ -1,4 +1,4 @@
-[Prediction Milk Production]([image_url](https://github.com/shil5/Milk-Prediction-Time-Series-Project/blob/main/images_and_report/milk_pouring_image.jpg))
+![Predicting Milk Production](https://github.com/shil5/Milk-Prediction-Time-Series-Project/blob/main/images_and_report/milk_pouring_image.jpg)
 ### Project Title: 
 Time Series Forecasting for Monthly Milk Production using ARIMA Model
 
